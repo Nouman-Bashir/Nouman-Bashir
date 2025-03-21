@@ -37,8 +37,7 @@
   </a>
   <a href="https://github.com/nouman-bashir" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:noumanbashir4321@gmail.com.com">
+  </a>  <a href="mailto:noumanbashir4321@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
