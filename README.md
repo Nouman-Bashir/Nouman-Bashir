@@ -1,4 +1,8 @@
-[![MasterHead](https://25432745.fs1.hubspotusercontent-eu1.net/hubfs/25432745/Imported%20sitepage%20images/giphy-Jul-27-2023-12-54-04-4529-PM.gif)](www.google.com)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/C4E16AQEklGSmGhB2YA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1636357565914?e=2147483647&v=beta&t=6dUkgp_-QFot38UX62ines6FGEJX1UqpDs0vgK8jGjc" alt="MasterHead" width="100%">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Nouman Bashir</h1>
 <h3 align="center">A passionate Android Developer from Pakistan</h3>
 
