@@ -30,17 +30,18 @@
 
 - 💬 Ask me about **Kotlin,Android,JetpackCompose**
 
-<h3 align="center">📫 Connect with me</h3>
-<p align="center">
+
+<h3 align="left">📫 Connect with me:</h3>
+<p align="left">
   <a href="https://linkedin.com/in/devnouman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/nouman-bashir" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>  <a href="mailto:noumanbashir4321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+<p align="left">
+  📧 Email: <code>noumanbashir4321@gmail.com</code>
+</p>
+
+
 
 
 <h3 align="left">📫 Connect with me:</h3>
