@@ -16,8 +16,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouman-bashir&label=Profile%20views&color=0e75b6&style=flat" alt="nouman-bashir" /> </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nouman-bashir&theme=darkhub&column=3&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nouman-bashir&theme=darkhub&column=4&no-frame=true&no-bg=true" />
 </p>
+
 
 
 - 🔭 I’m currently working on **VPN integrations and advanced budget-tracking features**
@@ -38,42 +39,20 @@
   </a>
 </p>
 <p align="left">
-  📧 Email: <code>noumanbashir4321@gmail.com</code>
+  📧 Email: <span id="email" style="cursor:pointer; background-color:#f3f3f3; padding:5px; border-radius:5px;" onclick="navigator.clipboard.writeText('noumanbashir4321@gmail.com'); alert('Email copied!')">
+    noumanbashir4321@gmail.com
+  </span>
 </p>
 
-
-
-
-<h3 align="left">📫 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/devnouman" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-<p align="left">
-  📧 Email: <span style="background-color: #f3f3f3; padding: 5px; border-radius: 5px;">noumanbashir4321@gmail.com</span>
-</p>
 
 
 <h3 align="left">🚀 Languages & Tools:</h3>
 <p align="left">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
 </p>
----
-⭐️ From [Nouman Bashir](https://github.com/nouman-bashir)
-
-
 
 <h3 align="center">📊 GitHub Stats:</h3>
 
@@ -81,7 +60,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nouman-bashir&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouman-bashir&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouman-bashir&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouman-bashir&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
 
+
+⭐️ From [Nouman Bashir](https://github.com/nouman-bashir)
